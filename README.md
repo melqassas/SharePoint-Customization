@@ -1,5 +1,5 @@
-**Authour: Mohamed El-Qassas**
-**Site: https://devoworx.com**
+**Authour: Mohamed El-Qassas** | 
+**Site: https://devoworx.com** | 
 **Need Support: ask me at BUZZ https://buzz.devoworx.com**
 # JSforSharePoint
 JS and JSOM snippets code for SharePoint
