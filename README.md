@@ -3,4 +3,4 @@
 #Need Support: ask me at BUZZ https://buzz.devoworx.com
 # JSforSharePoint
 JS and JSOM snippets code for SharePoint
-- Auto Serial Number in SharePoint New Form.
+- [Auto Serial Number in SharePoint New Form.](https://spgeeks.devoworx.com/auto-serial-number-new-form-sharepoint/)
