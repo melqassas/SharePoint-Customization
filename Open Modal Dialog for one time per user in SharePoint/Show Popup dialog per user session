@@ -1,0 +1,44 @@
+// Just copy and paste the below code in Script Editor web part to test it
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js" integrity="sha256-1A78rJEdiWTzco6qdn3igTBv9VupN3Q1ozZNTR4WE/Y=" crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+function openFancybox()
+{
+	setTimeout(function ()
+	{
+		document.getElementById("modalID").click();
+
+	}, 500);
+};
+
+
+$(document).ready(function ()
+{
+	var visited = $.cookie('visited');
+	if (visited == 'yes')
+	{
+		// second page load, cookie active
+		return false;
+
+	}
+	else
+	{
+		// first page load, launch fancybox
+		openFancybox();
+
+	}
+	$.cookie('visited', 'yes',
+	{
+
+		expires: 7 // the number of days cookie will be effective });
+
+	});
+});
+</script>
+
+<a style="display:none;" id="modalID" data-fancybox href="http://epm:19812/infopath/like.png"></a>
