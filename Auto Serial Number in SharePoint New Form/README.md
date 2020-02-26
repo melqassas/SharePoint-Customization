@@ -1,7 +1,8 @@
-# Calculate The Project Status In Power BI
+# Auto Incremental Number in SharePoint New Form
 
-![Project Server: Calculate The Project Status In Power BI][1]
+![Auto Incremental Number in SharePoint New Form][1]
 
-  [1]: https://spgeeks.devoworx.com/wp-content/uploads/2020/02/Calculate-Project-Status-In-PowerBI.png
+  [1]: https://i0.wp.com/spgeeks.devoworx.com/wp-content/uploads/2019/12/Automatic-Unique-Sequence-Number-in-SharePoint-List.gif
   
-Please, Check the details explanation at **[Project Server: Calculate The Project Status In Power BI](https://spgeeks.devoworx.com/power-bi-calculate-project-status-in-project-server/)**
+Please, Check the details explanation at **[Auto Incremental Field in New Form](https://spgeeks.devoworx.com/auto-serial-number-new-form-sharepoint/)**
+
