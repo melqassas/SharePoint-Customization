@@ -7,5 +7,5 @@
 - [Close Event in SharePoint UI Modal Popup Dialog](https://spgeeks.devoworx.com/open-link-via-modal-dialog-sharepoint/#Close-Event-in-SharePoint-UI-Modal-Popup-Dialog).
 - [Open announcment modal popup dialog for only one time per user session in SharePoint Modal Popup Dialog](https://spgeeks.devoworx.com/load-fancybox-popup-in-first-load-of-sharepoint-site/).
 
-**[Mohamed El-Qassas](https://devoworx.com)** | 
-**Have a Question, Please ask [deBUG.to](https://deBUG.to) Community**
+ 
+**Have a Question, Please ask [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**
