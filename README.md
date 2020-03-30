@@ -17,7 +17,6 @@
 - [Conditional Formating in SharePoint Display Form via JQuery](https://spgeeks.devoworx.com/conditional-formating-at-dispform-aspx-via-jquery-in-sharepoint/).
 - [Show / Hide fields based on choice field selection using JQuery in SharePoint](https://spgeeks.devoworx.com/show-hide-fields-based-on-choice-field-selection-using-jquery-in-sharepoint/).
 - [Show / Hide fields based on a dropdown selection using SPUtility.js](https://spgeeks.devoworx.com/show-hide-fields-based-on-a-drop-down-using-sputility-js/).
-- [Show / Hide fields based on a dropdown selection using SPUtility.js](https://spgeeks.devoworx.com/show-hide-fields-based-on-a-drop-down-using-sputility-js/).
  --------------
  
 **Have a Question, Please ask [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**
