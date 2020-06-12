@@ -17,3 +17,6 @@ You can find the detail steps at **[Disable SharePoint Multiline TextBox Field I
 - SharePoint 2016.
 - SharePoint 2013.
 - SharePoint 2010.
+
+--------------
+> **Have a related question? Please ask it at [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**
