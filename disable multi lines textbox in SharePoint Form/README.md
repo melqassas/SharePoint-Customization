@@ -1,5 +1,5 @@
 ![Disable Multiline TextBox Field In SharePoint Edit Form](https://user-images.githubusercontent.com/49816567/84454770-32f75b00-ac64-11ea-80be-5675c14f8e29.jpg)
-# [Disable SharePoint Multiline TextBox Field](https://spgeeks.devoworx.com/disable-multiple-line-field-sharepoint/)
+# [Disable Multiple Line of Text Column in SharePoint Form](https://spgeeks.devoworx.com/disable-multiple-line-field-sharepoint/)
 
 This code snippet helps you to disable multiple line of text field in SharePoint default form.
 It's working properly with the required and non required field in SharePoint Form.
