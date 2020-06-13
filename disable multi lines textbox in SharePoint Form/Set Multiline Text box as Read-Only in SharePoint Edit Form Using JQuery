@@ -5,6 +5,7 @@
 $(function() {
 //Disable Multiple line text box in SharePoint form
   $("textarea[title='Project Description']").attr("readonly","true").css('background-color','#E6E6E6');
+
 //As a second option, you can use diable attribute as shown below. but this will disable scroll up and down too.
 //$("textarea[title='Your field display name']").attr('disabled', 'disabled');
 }); 
