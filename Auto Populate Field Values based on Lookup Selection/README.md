@@ -1,10 +1,12 @@
 ![Auto Populate Field based on lookup selection in SharePoint Forms](https://i0.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/07/SharePoint-Auto-Populate-Field-from-another-list-based-on-Lookup-Selection-min.png)
 # [Auto Populate Field based on lookup selection in SharePoint Forms](https://spgeeks.devoworx.com/autofill-list-form-fields-based-on-lookup-selection-in-sharepoint/)
 
-This code snippet helps you auto fill field values from another list based on Lookup Selection In SharePoint Forms.
+This JS code snippet helps you auto fill field values from another list based on Lookup Selection In SharePoint Forms.
+
 ![Auto Populate Field based on lookup selection in SharePoint Forms](https://spgeeks.devoworx.com/wp-content/uploads/2020/07/Auto-Populate-Field-Values-based-on-Lookup-Selection-In-SharePoint-Forms.gif)
 
 # How you can use this code in SharePoint Form?
+
 You can find the detail steps at **[Auto Populate Field Values based on Lookup Selection In SharePoint](https://spgeeks.devoworx.com/autofill-list-form-fields-based-on-lookup-selection-in-sharepoint/)**
 
 
