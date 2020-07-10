@@ -2,7 +2,7 @@
 
 # JS and JSOM snippets code for SharePoint
 
-This repository hosts some of well=written and tested js and jsom snippets code for SharePoint.
+This repository hosts some of well-written and tested JS and JSOM snippets code for SharePoint.
 
 # Samples
 
