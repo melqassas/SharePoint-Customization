@@ -6,15 +6,15 @@ This repository hosts some of well-written and tested JS and JSOM snippets code 
 
 # Samples
 
-- [Auto Populate Column based on another Column.](https://github.com/melqassas/JSforSharePoint/tree/master/Auto%20Populate%20Column%20based%20on%20another%20Column)
+## [Auto Populate Column based on another Column.](https://github.com/melqassas/JSforSharePoint/tree/master/Auto%20Populate%20Column%20based%20on%20another%20Column)
 
    ![Auto Populate Field based on lookup selection in SharePoint Forms](https://i0.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/07/SharePoint-Auto-Populate-Column-based-on-another-Column.gif)
 
-- [Auto Populate Field Values based on Lookup Selection.](https://github.com/melqassas/JSforSharePoint/tree/master/Auto%20Populate%20Field%20Values%20based%20on%20Lookup%20Selectionn)
+## [Auto Populate Field Values based on Lookup Selection.](https://github.com/melqassas/JSforSharePoint/tree/master/Auto%20Populate%20Field%20Values%20based%20on%20Lookup%20Selectionn)
 
    ![Auto Populate Field based on lookup selection in SharePoint Forms](https://spgeeks.devoworx.com/wp-content/uploads/2020/07/Auto-Populate-Field-Values-based-on-Lookup-Selection-In-SharePoint-Forms.gif)
    
-   - [Auto Serial Number in SharePoint New Form.](https://github.com/melqassas/JSforSharePoint/tree/master/Auto%20Serial%20Number%20in%20SharePoint%20New%20Form)
+## [Auto Serial Number in SharePoint New Form.](https://github.com/melqassas/JSforSharePoint/tree/master/Auto%20Serial%20Number%20in%20SharePoint%20New%20Form)
 
    ![Auto Incremental Number in SharePoint New Form][1]
 
