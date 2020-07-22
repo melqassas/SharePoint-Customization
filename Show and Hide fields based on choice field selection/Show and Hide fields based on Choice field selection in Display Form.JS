@@ -1,0 +1,13 @@
+//Show and Hide fields based on Choice field selection in Display Form 
+<script src = "https://code.jquery.com/jquery-1.7.2.min.js"type = "text/javascript"> </script> 
+<script type = "text/javascript">
+    //Show and Hide fields based on Choice field selection in Display Form
+    $(document).ready(function() {
+        if ($('h3: contains("City")').closest('td').next('td').text()
+            .indexOf(‘other’) == -1) {
+            $('h3: contains("OtherCity")').closest('tr').hide();
+        } else {
+            $('h3: contains("OtherCity")').closest('tr').show();
+        }
+    }); 
+</script>
