@@ -1,0 +1,25 @@
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"> </script>  
+<script src = "/Style%20Library/sputility.js"> </script>  
+<script type = "text/javascript">
+    $(document).ready(function() {
+        // Get a the choice field
+        var choiceField = SPUtility.GetSPField('Job Title');
+
+        // create a function to show or hide a field based on the selected choice Field value
+        var ShowHideField = function() {
+            var selectedFieldValue = choiceField.GetValue();
+            // Hide the ‘Other Title’ field if the selected value is ‘Other’
+            if (selectedFieldValue != 'Other') {
+                SPUtility.GetSPField('Other Title').Hide();
+                SPUtility.GetSPField('Other Title').SetValue(”);
+            } else {
+                SPUtility.GetSPField('Other Title').Show();
+            }
+        };
+
+        // Call ShowHideField in Edit form
+        ShowHideField();
+        // attach the function to choice field
+        $(choiceField.Dropdown).on('change', ShowHideField);
+    }); 
+</script>
