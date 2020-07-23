@@ -1,3 +1,5 @@
+//Show Hide fields based on dropdown selection using SPUtility in SharePoint Edit form
+
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"> </script>  
 <script src = "/Style%20Library/sputility.js"> </script>  
 <script type = "text/javascript">
