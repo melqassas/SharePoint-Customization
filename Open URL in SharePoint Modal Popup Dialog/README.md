@@ -5,6 +5,7 @@
 
 - Open link in Modal Dialog SharePoint 2013 and SharePoint 2016.
 - Show SharePoint Modal Popup Once Per Session.
+- Worjk with Close event in SharePoint Modal Dialog.
 
 ![Show SharePoint Modal Popup Once Per Session](https://i0.wp.com/spgeeks.devoworx.com/wp-content/uploads/2020/02/open-link-in-modal-pop-up-dialog-in-SharePoint-2016.png)
 
