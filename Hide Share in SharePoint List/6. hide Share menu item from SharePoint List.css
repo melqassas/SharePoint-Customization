@@ -1,0 +1,7 @@
+//Hide Share menu item from SharePoint List
+<style>
+.ms-contextmenu-link[title="Share"]
+{
+	display: none;
+}
+</style>
