@@ -1,0 +1,9 @@
+//disable Shared With button from the SharePoint List Ribbon
+<style>
+#Ribbon\.List\.Settings\.ListPermissions-Large,
+#Ribbon\.List\.Settings\.ListPermissions-Medium,
+#Ribbon\.List\.Settings\.ListPermissions-Small {
+	pointer-events: none;
+	opacity: 0.6;
+}
+</style>
