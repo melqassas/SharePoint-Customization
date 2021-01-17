@@ -1,0 +1,8 @@
+//Disable Share menu item from SharePoint List
+<style>
+.ms-contextmenu-link[title="Share"]
+{
+	pointer-events: none;
+	opacity: 0.6;
+}
+</style>
