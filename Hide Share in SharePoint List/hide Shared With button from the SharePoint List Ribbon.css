@@ -1,0 +1,8 @@
+//Hide Shared With button from the SharePoint List Ribbon
+<style>
+#Ribbon\.List\.Settings\.ListPermissions-Large,
+#Ribbon\.List\.Settings\.ListPermissions-Medium,
+#Ribbon\.List\.Settings\.ListPermissions-Small {
+	display: none;
+}
+</style>
