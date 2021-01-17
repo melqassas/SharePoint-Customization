@@ -1,0 +1,7 @@
+// Disable Shared With menu item form SharePoint List
+<style>
+.ms-contextmenu-link[title="Shared With"] {
+	pointer-events: none;
+	opacity: 0.6;
+}
+</style>
