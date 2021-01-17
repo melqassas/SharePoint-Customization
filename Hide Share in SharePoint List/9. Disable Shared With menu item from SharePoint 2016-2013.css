@@ -1,0 +1,7 @@
+// Disable Shared With menu item from SharePoint List
+<style>
+.ms-core-menu-link[title="Shared With"] {
+	pointer-events: none;
+	opacity: 0.6;
+}
+</style>
