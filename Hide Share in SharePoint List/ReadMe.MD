@@ -7,9 +7,9 @@ In this folder, you could find tested CSS code to disable or hide "Shared With" 
 
 
 
-# How you can use this JS code in Project Server?
+# Explanation
 
-You can find the detail steps at **[How to Disable Shared With button in SharePoint 2019 and SharePoint Online?](https://spgeeks.devoworx.com/disable-shared-with-in-sharepoint-online/)**
+You can find the detailed explanation at **[How to Disable Shared With button in SharePoint 2019 and SharePoint Online?](https://spgeeks.devoworx.com/disable-shared-with-in-sharepoint-online/)**
 
 
 # Applies To
