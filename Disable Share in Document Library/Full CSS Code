@@ -1,0 +1,15 @@
+// disable share functionlity in SharePoint Online
+<style>
+.js-listview-qcbShareButton,
+.ms-calloutLink[title="Share file or folder with other person or group"],
+.ms-contextmenu-link[title="Shared With"],
+.ms-contextmenu-link[title="Share"],
+#Ribbon\.Library\.Settings\.LibraryPermissions-Large,
+#Ribbon\.Library\.Settings\.LibraryPermissions-Medium,
+#Ribbon\.Library\.Settings\.LibraryPermissions-Small,
+#Ribbon\.Documents\.Manage\.ManagePermissions-Medium,
+#Ribbon\.Documents\.Share\.ShareItem-Large{
+ pointer-events:none;
+    opacity:0.6;
+}
+</style>
