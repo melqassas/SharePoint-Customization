@@ -10,7 +10,7 @@ In this folder, you could find tested CSS code to disable or hide "Shared With" 
 
 # Explanation
 
-You can find the detail steps at **[How to disable Share in SharePoint Document Library?](https://spgeeks.devoworx.com/disable-share-in-sharepoint-document-library/)**
+You can find the detail steps for each share option at **[How to disable Share in SharePoint Document Library?](https://spgeeks.devoworx.com/disable-share-in-sharepoint-document-library/)**
 
 
 # Applies To
