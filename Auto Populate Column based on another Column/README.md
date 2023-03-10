@@ -7,7 +7,7 @@ This JS code snippet helps you auto populate field values from another list on T
 
 # How you can use this code in SharePoint Form?
 
-You can find the detail steps at **[SharePoint Auto Populate Column based on another Column](https://spgeeks.devoworx.com/auto-populate-column-based-on-another-column/)**
+You can find the detail steps at **[SharePoint 2019 Auto Populate Column based on another Column](https://spgeeks.devoworx.com/auto-populate-column-based-on-another-column/)**
 
 
 # Applies To
